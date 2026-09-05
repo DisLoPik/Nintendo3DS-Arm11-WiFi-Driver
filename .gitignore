@@ -1,0 +1,14 @@
+# Extracted Atheros firmware (Nintendo copyright) and any NWM dumps
+fw/
+exclude/
+*.bin
+*.code
+*.dec.code
+*.app
+*.cxi
+
+# Build artifacts
+build/
+*.o
+*.elf
+*.map
