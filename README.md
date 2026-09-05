@@ -73,7 +73,7 @@ python tools/nwm_extract.py <nwm.dec.code> fw/
 ```
 
 Any driver that uploads firmware must load it from removable storage at runtime;
-it must never be embedded in a binary or committed to this repository.
+it must never be embedded in a binary.
 
 ## Credits
 
